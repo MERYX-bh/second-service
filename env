@@ -1,0 +1,4 @@
+DB_HOST=mysql
+DB_USER=springuser
+DB_PASSWORD=ThePassword
+DB_NAME=db_produits
